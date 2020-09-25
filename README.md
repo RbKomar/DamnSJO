@@ -6,7 +6,7 @@
 * [Setup](#setup)
 
 ## General info
-No more waiting for hours for SJO servers to respond. Start the script and wait for it to sign you up for a given language class.
+No more waiting for hours for SJO servers to respond. Start the script and wait for it to sign you up for a given language class. Perfect for hunting rare language classes.
 
 	
 ## Technologies
