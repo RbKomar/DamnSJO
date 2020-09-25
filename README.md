@@ -16,11 +16,17 @@ Project is created with:
 * ChromeDriver 85.0.4183.87
 	
 ## Setup
-To run this project, install Selenium:
+To run:
+1. install Selenium:
 
 ```
 $ pip install Selenium
 ```
-Download the proper version of ChromeDriver: https://chromedriver.chromium.org/downloads
-Put ChromeDriver into project folder. Input your data inside the code.
-Run the script with Python 3.x. 
+2. Download the proper version of ChromeDriver: https://chromedriver.chromium.org/downloads
+3. Put ChromeDriver into project folder. 
+4. Input your data inside the code.
+5. Run the script with Python 3.x. 
+
+```
+$ python damnSJO.py
+```
