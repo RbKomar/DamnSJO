@@ -22,5 +22,5 @@ To run this project, install Selenium:
 $ pip install Selenium
 ```
 Download the proper version of ChromeDriver: https://chromedriver.chromium.org/downloads
-Put ChromeDriver into project folder.
-Run the script with Python 3.x
+Put ChromeDriver into project folder. Input your data inside the code.
+Run the script with Python 3.x. 
